@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "name": "Mike",
+    "age": "32",
+    "phone": " 56473829",
+    "email": "qwertt@gmail.com"
+  },
+  {
+    "id": "2",
+    "name": "nike",
+    "age": "42",
+    "phone": " 56473829",
+    "email": "qwertt@gmail.com"
+  }
+]
